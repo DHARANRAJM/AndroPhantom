@@ -7,7 +7,7 @@
 ██╔═══╝ ██╔══██║██╔══██║██║╚██╗██║   ██║   ██║   ██║██║╚██╔╝██║
 ██║     ██║  ██║██║  ██║██║ ╚████║   ██║   ╚██████╔╝██║ ╚═╝ ██║
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝
-                    DROID Framework v2.0
+           M DHARAN RAJ - WEB DEVELOPER & ETHICAL HACKER
 ```
 
 ## 🚀 Advanced Android Penetration Testing Framework
