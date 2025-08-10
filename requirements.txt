@@ -1,0 +1,74 @@
+# PhantomDroid Framework v2.0 - Python Dependencies
+
+# Core Framework
+flask>=2.3.0
+cryptography>=41.0.0
+requests>=2.31.0
+
+# Database
+sqlite3
+
+# XML/HTML Processing
+lxml>=4.9.0
+beautifulsoup4>=4.12.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# Networking
+dnspython>=2.4.0
+scapy>=2.5.0
+
+# Compression
+gzip
+
+# Encoding
+base64
+
+# Threading
+threading
+
+# JSON Processing
+json
+
+# File Operations
+pathlib
+shutil
+tempfile
+
+# System Operations
+subprocess
+os
+sys
+
+# Date/Time
+datetime
+
+# Random Generation
+random
+string
+uuid
+
+# Argument Parsing
+argparse
+
+# Regular Expressions
+re
+
+# Math Operations
+math
+
+# Collections
+collections
+
+# Itertools
+itertools
+
+# Hashlib
+hashlib
+
+# Socket Programming
+socket
+
+# Time Operations
+time
