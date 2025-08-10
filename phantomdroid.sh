@@ -68,7 +68,7 @@ show_banner() {
 ██╔═══╝ ██╔══██║██╔══██║██║╚██╗██║   ██║   ██║   ██║██║╚██╔╝██║
 ██║     ██║  ██║██║  ██║██║ ╚████║   ██║   ╚██████╔╝██║ ╚═╝ ██║
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝
-                    DROID Framework v2.0
+           M DHARAN RAJ - WEB DEVELOPER & ETHICAL HACKER
 EOF
     echo -e "${NC}"
     echo -e "${CYAN}Advanced Android Penetration Testing Framework${NC}"
