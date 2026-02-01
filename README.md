@@ -61,8 +61,8 @@ This framework is intended SOLELY for authorized penetration testing, security r
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/PhantomDroid.git
-cd PhantomDroid
+git clone https://github.com/DHARANRAJM/AndroPhantom.git
+cd AndroPhantom
 
 # Run the installer
 chmod +x install.sh
