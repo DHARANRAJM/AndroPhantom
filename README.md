@@ -1,4 +1,4 @@
-# PhantomDroid Framework v2.0 - Advanced Android Payload System
+# AndroPhantom Framework v2.0 - Advanced Android Payload System
 
 ```
  ██████╗██╗  ██╗ █████╗ ███╗   ██╗████████╗ ██████╗ ███╗   ███╗
@@ -12,7 +12,7 @@
 
 ## 🚀 Advanced Android Penetration Testing Framework
 
-PhantomDroid is a next-generation Android payload generation and management framework designed for advanced penetration testing and security research. Built from the ground up with modern techniques and enhanced capabilities.
+AndroPhantom is a next-generation Android payload generation and management framework designed for advanced penetration testing and security research. Built from the ground up with modern techniques and enhanced capabilities.
 
 ## ⚠️ LEGAL DISCLAIMER
 This framework is intended SOLELY for authorized penetration testing, security research, and educational purposes. Users are fully responsible for compliance with all applicable laws and regulations. The authors assume no responsibility for misuse.
@@ -68,25 +68,25 @@ cd AndroPhantom
 chmod +x install.sh
 sudo ./install.sh
 
-# Launch PhantomDroid
-./phantomdroid.sh
+# Launch AndroPhantom
+./AndroPhantom.sh
 ```
 
 ## 🎮 Usage Modes
 
 ### 1. Interactive Mode
 ```bash
-./phantomdroid.sh --interactive
+./AndroPhantom.sh --interactive
 ```
 
 ### 2. Command Line Mode
 ```bash
-./phantomdroid.sh --payload tcp --lhost 192.168.1.100 --lport 4444 --target original.apk
+./AndroPhantom.sh --payload tcp --lhost 192.168.1.100 --lport 4444 --target original.apk
 ```
 
 ### 3. Batch Mode
 ```bash
-./phantomdroid.sh --batch --config batch_config.json
+./AndroPhantom.sh --batch --config batch_config.json
 ```
 
 ### 4. Web Interface
@@ -97,7 +97,7 @@ python3 web_interface.py
 
 ## 🔧 Configuration
 
-PhantomDroid uses a modular configuration system:
+AndroPhantom uses a modular configuration system:
 
 - `config/core.conf` - Core framework settings
 - `config/payloads.conf` - Payload configurations
@@ -117,7 +117,7 @@ PhantomDroid uses a modular configuration system:
 ## 🛠️ Architecture
 
 ```
-PhantomDroid/
+AndroPhantom/
 ├── core/                 # Core framework modules
 ├── payloads/            # Payload generation engines
 ├── evasion/             # AV evasion techniques
@@ -148,7 +148,7 @@ Common issues and solutions are documented in `docs/troubleshooting.md`.
 
 For advanced debugging:
 ```bash
-./phantomdroid.sh --debug --verbose
+./AndroPhantom.sh --debug --verbose
 ```
 
 ## 📚 Documentation
@@ -179,4 +179,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Remember**: With great power comes great responsibility. Use PhantomDroid ethically and legally.
+**Remember**: With great power comes great responsibility. Use AndroPhantom ethically and legally.
